@@ -1,0 +1,9 @@
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\bin\Release\Glicko2ByRheiko.exe
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\bin\Release\Glicko2ByRheiko.pdb
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\bin\Release\Glicko2ByRheiko.xml
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.Form1.resources
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.Resources.resources
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.vbproj.GenerateResource.Cache
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.exe
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.xml
+D:\Extensions\VisualStudio Projects\Tugas VB\Glicko2ByRheiko\Glicko2ByRheiko\obj\x86\Release\Glicko2ByRheiko.pdb
